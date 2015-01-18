@@ -2,6 +2,10 @@
 
 This module provides an immature framework for accessing random values from shell script. It employs a number of fallback strategies, each of which sources a less random, less acceptable source. There are no known users, and you should consider this code alpha quality, subject to change, etc.
 
+## Compatibility
+
+* Tag [`release_2015.0117.1750-1`](https://github.com/shellfire-dev/version/releases/tag/release_2015.0117.1750-1) is compatible with [shellfire] release [`release_2015.0117.1750-1`](https://github.com/shellfire-dev/shellfire/releases/tag/release_2015.0117.1750-1).
+
 ## Overview
 
 For example, to generate a random number between 0 and 255:-
